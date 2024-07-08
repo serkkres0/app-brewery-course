@@ -1,2 +1,2 @@
 # app-brewery-course
-A project website for the App-Brewery course.
+A coolectio of project websites for the App-Brewery course.
